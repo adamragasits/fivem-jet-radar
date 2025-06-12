@@ -1,4 +1,4 @@
-# FiveM-Jet-Radar
+# FiveM Jet Radar
 
 ## About
 This is a STANDLONE Jet Radar project with a lot of customization options. 
